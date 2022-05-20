@@ -1,2 +1,1 @@
 This is Master file initial line
-This is feature-c
